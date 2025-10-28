@@ -12,7 +12,7 @@ Along with three articles, the class also studied a few buildings which correspo
 
 ## Articles
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/mathematics-ideal-villa-and-other-essays)  Rowe, Colin, ed. "Mathematics of the Ideal Villa." In [*Mathematics of the Ideal Villa and Other Essays*](https://mitpress.mit.edu/books/mathematics-ideal-villa-and-other-essays). Cambridge, MA: MIT Press, 1987, pp. 1-29. ISBN: 0262680378.
+{{% resource_link "ef14fcad-409f-4f02-96d7-d286bad65aae" "![Buy at MIT Press](/images/mp_logo.gif)" %}}  Rowe, Colin, ed. "Mathematics of the Ideal Villa." In {{% resource_link "ef14fcad-409f-4f02-96d7-d286bad65aae" "*Mathematics of the Ideal Villa and Other Essays*" %}}. Cambridge, MA: MIT Press, 1987, pp. 1-29. ISBN: 0262680378.
 
 Kahn, Louis I., ed. "The Value and Aim in Sketching." In *Writings, Lectures, Interviews*. New York, NY: Rizzoli International Publications, 1991, pp. 10-14.
 

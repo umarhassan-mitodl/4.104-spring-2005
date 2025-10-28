@@ -4,8 +4,6 @@ description: Free-hand, scaled drawing assignment.
 file: /courses/4-104-architecture-studio-intentions-spring-2005/4387af062c6f793885278d46fb71eab5_assignment_3.pdf
 file_size: 53538
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,8 +4,6 @@ description: Scaled drawing assignment.
 file: /courses/4-104-architecture-studio-intentions-spring-2005/be3d077b6e54ce75330e5ad61e323c47_assignment_4.pdf
 file_size: 66837
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

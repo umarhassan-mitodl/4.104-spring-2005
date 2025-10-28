@@ -5,8 +5,6 @@ description: This assignment asks students to consider what it is that interests
 file: /courses/4-104-architecture-studio-intentions-spring-2005/3e42dfcef620cb856f92ff7f74c5fa01_assignment_1.pdf
 file_size: 56021
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

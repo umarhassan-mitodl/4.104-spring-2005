@@ -6,8 +6,6 @@ description: This assignment asks students to explore a variety of methods for r
 file: /courses/4-104-architecture-studio-intentions-spring-2005/6a2c3dbdc57e89631b2473050b9db6c5_assignment_10.pdf
 file_size: 72823
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,8 +5,6 @@ description: This assignment asks students to compose brief conceptual statement
 file: /courses/4-104-architecture-studio-intentions-spring-2005/db098ddadcf5f008eda32538b2508f43_assignment_9.pdf
 file_size: 51019
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

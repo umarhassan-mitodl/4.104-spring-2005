@@ -5,8 +5,6 @@ description: In this assignment, students work with their TAs to select specific
 file: /courses/4-104-architecture-studio-intentions-spring-2005/09ec77e07a95cff6e3c25e1b9bd69660_assignment_11.pdf
 file_size: 50641
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,8 +5,6 @@ description: This assignment asks students to write an essy on the organization 
 file: /courses/4-104-architecture-studio-intentions-spring-2005/2afefd6e135256808e0cf6df1b1250e2_assignment_2.pdf
 file_size: 55585
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
